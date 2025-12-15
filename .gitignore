@@ -1,0 +1,39 @@
+# IDE配置文件
+.vs/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 操作系统生成的文件
+Thumbs.db
+.DS_Store
+
+# 编译生成的文件
+*.o
+*.out
+*.hex
+*.elf
+*.map
+
+# Python相关
+*.pyc
+__pycache__/
+venv/
+env/
+
+# 临时文件
+*.tmp
+*.temp
+
+# 日志文件
+*.log
+
+# 备份文件
+*.bak
+*.backup
+
+# 文档中的临时文件
+*.tmp.pdf
+*.tmp.pptx
